@@ -9,4 +9,4 @@
 - 📫 Reach me at twitter: @krishnatyagi01
 
 
-Tech I am familiar with: HTML | CSS | SASS | JavaScript | ReactJs | NodeJs | MongoDB | TypeScript | Firebase | GraphQl | NextJs| C++ | C | solidity
+Tech I am familiar with: HTML | CSS | SASS | JavaScript | ReactJs | NodeJs | MongoDB | TypeScript | Firebase | GraphQl | NextJs| C++ | C | Solidity
