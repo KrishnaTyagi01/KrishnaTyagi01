@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on React and React Native
 - 🌱 I’m currently improving my Web developement skills and learning to build smart contracts with solidity
 - 👯 I’m looking to work on any awesome project
-- 💬 Ask me about MERN stack and hiphop
+- 💬 Ask me about MERN stack and web development
 - 📫 Reach me at twitter: @krishnatyagi01
 
 
