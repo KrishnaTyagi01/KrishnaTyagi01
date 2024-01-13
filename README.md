@@ -2,11 +2,11 @@
 
 
 
-- 🔭 I’m currently working on React and React Native
-- 🌱 I’m currently improving my frotend engineering skills
+- 🔭 I’m currently working on React 
+- 🌱 I’m currently improving my frontend engineering skills
 - 👯 I’m looking to work on awesome projects
 - 💬 Ask me about frontend technologies
-- 📫 Reach me at twitter: @krishnatyagi01
+- 📫 Reach me at Twitter: @krishnatyagi01
 
 
 Tech I am familiar with:
